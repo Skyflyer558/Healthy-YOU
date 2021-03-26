@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registre des Entraînements</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="section-container">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-12 section-container-spacer">
+                <h1 class="text-center">Vos entraînements prennent plusieurs formes, nos feuilles de registres aussi. </h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 col-md-4">
+                <h3 class="text-center" text-color="blue">Musculation au Gym</h3>
+                <p>Voici votre feuille de progression pour vos entraînements en salle.  Que vous utilisiez les poids libres, les appareils de musculation, ou même quelques exercices "dit de plancher".</p>
+                <img src="Gym Log.jpg" alt="" class="img-responsive">
+                
+            </div>
+
+            <div class="col-xs-12 col-md-4">
+                <h3 class="text-center">Entraînement "Maison"</h3>
+                <p>Que vous soyez au Gym ou à la maison, lorsque vous vous entraînez avec la gravité de votre corps, combinant cardio et entraînement musculaires, comme des squats, des fentes, des pompes, saut en étoiles, etc.... Vous pouvez même noter la quantité d'eau que vous buvez par jour, en cochant les cases appropriées.  Demeurer hydraté est vraiment important, même en hiver!</p>
+                <img src="Workout-log.jpg" alt="" class="img-responsive">
+                
+            </div>
+            <div class="col-xs-12 col-md-4">
+                <h3 class="text-center">Entraînement Cardio et de flexibilité</h3>
+                <p>Pour vos routines de cardio, que ce soit la course, la marche, le vélo, la raquette, le ski de fond... vos étirements et endurance comme le Yoga ou le Pilates et quelques entraînements musculaires.</p>
+                <img src="home training log.jpg" alt="" class="img-responsive">
+                
+            </div>
+        </div>
+    </div>
+</div>
+            
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>

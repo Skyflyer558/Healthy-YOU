@@ -1,0 +1,52 @@
+body{
+	margin: 0px;
+}
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+;
+
+}
+h1 {
+	font-family: cavolini;
+	font-size: 3em;
+	border-bottom: 20px #6A6A6A;
+	border-right: 30px #6A6A6A;
+	width: 800px;
+	text-align: center;
+	box-shadow: 4px 4px 5px #888888;
+	margin-top: 10px;
+	background-color: #00A100 ;
+	color: white;
+}
+h2{
+	font-family: times new roman;
+	font-size: 2em;
+	background-color: #BFFEBf;
+	border-bottom: 20px #6a6a6a;
+	box-shadow: 3px 3px 3px #888888;
+	width: 600px;
+	text-align: center;
+
+	}
+h3{
+	font-family: truculenta;
+	font-size: 2em;
+	text-align: center;
+	color: purple;
+
+}
+p{
+	font-family: Dosis;
+	text-align: center;
+	color: blue;
+	}
+	img{
+		float: left;
+		margin: 10px;
+	}
+
+
+img:hover{
+	transform: scale(1.1);
